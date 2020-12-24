@@ -6,7 +6,7 @@ Submission for [Kaggle challenge](https://www.kaggle.com/uciml/default-of-credit
 * What are some possible approaches?
 * What might be the appropriate model?
 
-## Anlysis by steps
+## Step-by-step analysis
 1. Tried to understand the data first, categorical/discrete vs continuous
 2. Ruled out possible solutions such as senario analysis(i.e., if Sex == 1 && if Marriage == 1 && Education == 1 && Age >= 20 && Age <= 30) or isolating dependent variables(i.e., only look at Sex == 1 and all data points under Sex == 1)
 3. Exploratory Anlysis by visualization
