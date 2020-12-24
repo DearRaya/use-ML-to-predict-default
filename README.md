@@ -11,8 +11,8 @@ Submission for [Kaggle challenge](https://www.kaggle.com/uciml/default-of-credit
 2. Ruled out possible solutions such as senario analysis(i.e., if Sex == 1 && if Marriage == 1 && Education == 1 && Age >= 20 && Age <= 30) or isolating dependent variables(i.e., only look at Sex == 1 and all data points under Sex == 1)
 3. Exploratory Anlysis by visualization
 4. Normalization
-5. Decide on models based on the mix of categorical/discrete vs continuous data points
-6. Apply decision tree(random forest), multivariate linear regression
+5. Decided on models based on the mix of categorical/discrete vs continuous data points
+6. Applied decision tree(random forest), multivariate linear regression
 
 ## Conclusion
 *TBD*
