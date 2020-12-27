@@ -1,4 +1,4 @@
-Submission for [Kaggle challenge](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset) to predict of various demographics defaulting on their credit card payment
+Submission for [Kaggle challenge](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset) to predict the probability of various demographics defaulting on their credit card payment
 
 ## Questions I was trying to address:
 * What are the dependent vairables for someone to default next month?
