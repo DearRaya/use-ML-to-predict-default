@@ -15,4 +15,6 @@ Submission for [Kaggle challenge](https://www.kaggle.com/uciml/default-of-credit
 6. Applied decision tree(random forest), multivariate linear regression
 
 ## Conclusion
-*TBD*
+* Random Forest Accuracy: 81%
+* Decision Tree: 72%
+* Biggest weight using multivariate linear regression is PAY_0 with beta of 0.968, smallest weight is BILL_AMT1 with beta of -0.66
