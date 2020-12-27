@@ -1,6 +1,6 @@
 Submission for [Kaggle challenge](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset) to predict credit card payment default in Taiwan,China
 
-## The Questions I was trying to address:
+## Questions I was trying to address:
 * What are the dependent vairables for someone to default next month?
 * What are the weights for these variables?
 * What are some possible approaches?
